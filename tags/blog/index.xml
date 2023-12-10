@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog on Sarah Blog</title>
-    <link>https://sarahkeithp.github.io/tags/blog/</link>
-    <description>Recent content in blog on Sarah Blog</description>
+    <title>blog on Sarah&#39;s Blog</title>
+    <link>https://sarahkeithcodes.github.io/tags/blog/</link>
+    <description>Recent content in blog on Sarah&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Dec 2023 21:04:44 -0300</lastBuildDate><atom:link href="https://sarahkeithp.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Dec 2023 21:04:44 -0300</lastBuildDate><atom:link href="https://sarahkeithcodes.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello From Hugo</title>
-      <link>https://sarahkeithp.github.io/posts/hello-from-hugo/</link>
+      <link>https://sarahkeithcodes.github.io/posts/hello-from-hugo/</link>
       <pubDate>Sat, 09 Dec 2023 21:04:44 -0300</pubDate>
       
-      <guid>https://sarahkeithp.github.io/posts/hello-from-hugo/</guid>
+      <guid>https://sarahkeithcodes.github.io/posts/hello-from-hugo/</guid>
       <description>Hello from Hugo ✨ I&amp;rsquo;m thrilled to kickstart my blogging journey with Hugo! 🚀
 As a newcomer to website creation, I&amp;rsquo;ve recently delved into the world of Hugo, and I must say, it&amp;rsquo;s been an incredibly smooth and gratifying experience. The simplicity and efficiency of Hugo have truly amazed me.
 Hugo, with its user-friendly structure and intuitive design, has made website creation a breeze. The ease with which one can set up a functional and aesthetically pleasing website is remarkable.</description>
